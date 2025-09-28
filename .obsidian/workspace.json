@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "46984290d0475f4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "112bdf9a27feee2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8700311f73b70b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Note"
+            }
+          },
+          {
+            "id": "b667bfb20c07a2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Practitioner/AWS Global Infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Global Infrastructure"
+            }
+          },
+          {
+            "id": "26d5eacbf019daf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Practitioner/AWS Global Infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Global Infrastructure"
+            }
+          },
+          {
+            "id": "a678548d6b64d9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Architeture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Architeture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c490b7cb256aeb44",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b95ef89aa4b02a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e689e7a27ce96b0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "85fd04fecf4ac201",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "13c6a3cd37800050",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d11c1bea1a61df1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b60574dca0e6dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a794d6045d8a32d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "88e64cf61b971b45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Accessibility.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Accessibility"
+            }
+          },
+          {
+            "id": "6ce527143ec8e2ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a61c518b43398ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Daily Note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Daily Note"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "8700311f73b70b91",
+  "lastOpenFiles": [
+    "Work Tracker.md",
+    "Welcome.md",
+    "Untitled.md",
+    "Templates/Daily Note.md",
+    "Daily/2025/09/28.md",
+    "Daily/2025/09",
+    "Daily/2025",
+    "2025/09/28.md",
+    "Daily/Untitled 1.md",
+    "2025/09",
+    "2025",
+    "28/9/25.md",
+    "28/9",
+    "28",
+    "Templates",
+    "Daily",
+    "Cloud Architeture.md",
+    "AI Notes.md",
+    "Cloud Practitioner/AWS Global Infrastructure.md",
+    "Cloud Practitioner/Benefits Of Cloud.md",
+    "Assets/Pasted image 20250615133205.png",
+    "Assets/Pasted image 20250615133043.png",
+    "Assets/Pasted image 20250615133025.png",
+    "Assets/Pasted image 20250615132539.png",
+    "Assets/Pasted image 20250615132319.png",
+    "Assets/Pasted image 20250615132131.png",
+    "Assets/Pasted image 20250615131917.png",
+    "Assets/Pasted image 20250615131523.png",
+    "Assets/Pasted image 20250615131236.png",
+    "Assets/Pasted image 20250615131203.png",
+    "Cloud Practitioner/Intro.md",
+    "Assets",
+    "Cloud Practitioner",
+    "Vision AI Long.md",
+    "Vision Notes.md",
+    "Vision Questions.md",
+    "Vision mind map.md",
+    "Y3/NLU/Evaluation, Data Prep, Data Reliability.md",
+    "Untitled 2.md",
+    "Y3/Computer Vision/Face detection.md",
+    "Y2/Sem2/Visual Computing/Image Processing/Convolution, noise, filters, gradients, edge-detection, template matching.md",
+    "Y3/Computer Vision/Stereo.md",
+    "Y3/Computer Vision/Image Stitching.md",
+    "Y3/Computer Vision/Local Features.md",
+    "Y3/Computer Vision/Model based vision, PCA, ASM.md",
+    "Y3/Computer Vision/Image processing for Computer Vision.md",
+    "Untitled.canvas"
+  ]
+}

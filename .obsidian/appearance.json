@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Obsidian Nord",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "textFontFamily": "Inter"
+}

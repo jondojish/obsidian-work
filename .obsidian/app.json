@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Assets",
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "autoConvertHtml": true,
+  "vimMode": false,
+  "readableLineLength": true,
+  "userIgnoreFilters": [
+    "Assets/"
+  ]
+}
